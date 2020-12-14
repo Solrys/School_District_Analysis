@@ -37,7 +37,7 @@ Once we replaced the data for the 9th graders at the Thomas High School the data
  Before The changes made to the 9th grade the average score for reading, the average score for math
  
  
- ![before] (https://github.com/Solrys/School_District_Analysis/blob/main/Resources/new%20school/THS_before.png)
+ ![before](https://github.com/Solrys/School_District_Analysis/blob/main/Resources/new%20school/THS_before.png)
  
  with the new code reflecting 9th grade NaNs the following image reflects the new data 
  ![after] 
