@@ -51,7 +51,7 @@ Once we replaced the data for the 9th graders at the Thomas High School the data
  
  ## Conclusion
  
-After sorting and analyzing the data, and comparing between the charecteristics of the top and bottom schools in the district there are several conclusions that can be made. Charter schools have perfomed significantly better than the district schools. Smaller schools seem to have a better performance as well. Being able to see which schools performed the best may allow us to be able to create tools to model after sucess and implement across the board. 
+After sorting and analyzing the data, and comparing between the charecteristics of the top and bottom schools in the district there are several conclusions that can be made. Charter schools have perfomed significantly better than the district schools. Smaller schools seem to have a better performance as well. Being able to see which schools performed the best may allow for better tools to model after sucess and implement across the board. Being able to analyze an acurate dataset can also infor better budgeting for schools as well as other initiatives.  
  
  
  
