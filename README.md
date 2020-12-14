@@ -42,6 +42,13 @@ Once we replaced the data for the 9th graders at the Thomas High School the data
  with the new code reflecting 9th grade NaNs the following image reflects the new data 
  
  ![after](https://github.com/Solrys/School_District_Analysis/blob/main/Resources/new%20school/THS_after.png) 
+ 
+ The percentage of Passing math has changed, the percentage of passing reading has changed, and the overall percentage of passing students has changed. 
+ 
+ In addition Thomas High School is now #2 on the Top Five Schools List
+ 
+ ![Top 5]
+ 
    
  
  
