@@ -34,7 +34,9 @@ Once we replaced the data for the 9th graders at the Thomas High School the data
  * The top 5 schools in the district changed 
  * The district summary changed to reflect a changed percentage of passing studendts
  
- Before The changes made to the 9th grade the average score for reading, the average score for math, 
+ Before The changes made to the 9th grade the average score for reading, the average score for math
+ 
+ 
  ![before] (https://github.com/Solrys/School_District_Analysis/blob/main/Resources/new%20school/THS_before.png)
  
  with the new code reflecting 9th grade NaNs the following image reflects the new data 
